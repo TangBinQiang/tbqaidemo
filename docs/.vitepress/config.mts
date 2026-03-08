@@ -4,6 +4,7 @@ export default defineConfig({
   title: "银轮实习笔记",
   description: "Spring AI + Ollama + DeepSeek 实践笔记",
   lang: 'zh-CN',
+  base: '/tbqaidemo/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
