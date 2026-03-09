@@ -23,7 +23,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'AI 学习笔记',
-      copyright: 'Copyright © 2025'
+      copyright: 'Copyright © 2026'
     },
     outline: {
       label: '页面导航',
